@@ -77,7 +77,7 @@ export const Bio = {
     "I'm a full stack developer that thrives in both front-end and back-end work, creating user interfaces that are smooth and reliable at the same time. I'm skilled at converting customer needs into scalable and effective solutions, and I have experience with a variety of databases, frameworks, and programming languages. I also thrive in dynamic contexts.",
   github: "https://github.com/harsh03kadam",
   resume:
-    "https://app.luminpdf.com/viewer/6638ed627f0f7ea04dc18bda",
+    "https://app.luminpdf.com/viewer/663a411774f805b35ac0e93a",
   linkedin: "https://www.linkedin.com/in/harsh0kadam/",
   twitter: "https://twitter.com/_harshit_333",
   insta: "https://www.instagram.com/_harshit_333/",
@@ -462,12 +462,9 @@ export const projects = [
     tags: [
       "Next.js",
       "TypeScript",
-      "MongoDB",
-      "Clerk",
-      "Cloudinary",
-      "Stripe",
-      "Shadcn",
-      "TailwindCss",
+      "Redux", 
+      "supabase",
+      "axios",    
       
 
     ],
